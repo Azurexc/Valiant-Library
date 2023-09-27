@@ -1,3 +1,4 @@
+```
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Azurexc/Valiant-Library/main/priv.lua",true))()
 
 local Window = library:CreateWindow("Name", "Version", 10044538000)
@@ -37,3 +38,4 @@ end)
 
 Label = Page:CreateLabel("Label")
 Label:UpdateLabel("New Title")
+```
